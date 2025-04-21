@@ -4,16 +4,16 @@ This project sets up a digital library system using PostgreSQL. It includes scri
 
 # Project Structure
 
-project_elibrary/
-├── main_elibrary.py             # Main script to run all steps
-└── code_elibrary/
-    ├── e-library.sql            # SQL script to create database structure
-    ├── elibrary_dummy_gen.py    # Python script to generate dummy data (CSV)
-    ├── insert_data_library.sh   # Shell script to insert CSV data into the database
-    └── dummy_elibrary/          # Folder containing generated CSV files
-        ├── users.csv
-        ├── addresses.csv
-        └── ...
+        project_elibrary/
+        ├── main_elibrary.py             # Main script to run all steps
+        └── code_elibrary/
+            ├── e-library.sql            # SQL script to create database structure
+            ├── elibrary_dummy_gen.py    # Python script to generate dummy data (CSV)
+            ├── insert_data_library.sh   # Shell script to insert CSV data into the database
+            └── dummy_elibrary/          # Folder containing generated CSV files
+                ├── users.csv
+                ├── addresses.csv
+                └── ...
 
 # Requirements
 
