@@ -1,0 +1,11 @@
+user_id,book_id,library_id,hold_date,expire_date,status,queue_position,is_deleted
+4,6,9,2024-04-25,2024-05-02,expired,7,False
+1,5,3,2024-09-03,2024-09-10,waiting,5,False
+5,7,10,2024-10-30,2024-11-06,waiting,5,False
+3,9,4,2024-09-11,2024-09-18,fulfilled,7,False
+7,10,5,2024-04-27,2024-05-04,expired,7,False
+9,1,6,2024-10-17,2024-10-24,expired,1,False
+2,7,5,2024-10-30,2024-11-06,fulfilled,3,False
+6,3,8,2024-10-20,2024-10-27,expired,2,False
+10,1,1,2024-11-19,2024-11-26,fulfilled,10,False
+7,4,8,2025-01-29,2025-02-05,waiting,7,False
